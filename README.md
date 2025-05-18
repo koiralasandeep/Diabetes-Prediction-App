@@ -44,6 +44,8 @@ numpy
 scikit-learn
 streamlit
 pickle
+<img width="1920" alt="Screenshot 2025-05-18 at 11 46 09 AM" src="https://github.com/user-attachments/assets/bb3e2cef-7f19-47cc-b220-ec14079f73b1" />
+
 
 
 
